@@ -1,4 +1,4 @@
-iHello Everyone
+Hello Everyone
 
 
 My Name is Pranav Ramesh.
@@ -12,3 +12,5 @@ Using local workflow is simple :
 * Modify your project
 * Add the files
 * Commit your changes 
+
+I am aspiring to be a data scientist.
